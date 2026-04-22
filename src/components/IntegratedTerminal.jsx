@@ -1,8 +1,8 @@
 import { useEffect, useRef } from 'react';
-import { Terminal as XtermTerminal } from 'xterm';
-import { FitAddon } from 'xterm-addon-fit';
-import { WebLinksAddon } from 'xterm-addon-web-links';
-import 'xterm/css/xterm.css';
+import { Terminal as XtermTerminal } from '@xterm/xterm';
+import { FitAddon } from '@xterm/addon-fit';
+import { WebLinksAddon } from '@xterm/addon-web-links';
+import '@xterm/xterm/css/xterm.css';
 
 const IntegratedTerminal = ({ rootPath }) => {
     const terminalRef = useRef(null);
