@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Vinyl 🎧📖</h1>
-  <p><strong>A Next-Generation AI-Powered EPUB & PDF Reader</strong></p>
+  <p><strong>A EPUB/PDF Reader and Code Editor With ofc AI</strong></p>
   <p><i>Beta Version</i></p>
 </div>
 
@@ -28,9 +28,9 @@ More than just a reader, Vinyl is built with an integrated AI that allows you to
 
 ## 📸 Screenshots
 
-| Reading Interface | AI Assistant in Action | Code Editor |
+| Reading Interface | Code Editor in Action | Reading Features with AI |
 | :---: | :---: | :---: |
-| <img src="images/s2.png" alt="Reading Interface" width="250"/> | <img src="images/s3.png" alt="AI Assistant" width="250"/> | <img src="images/s5.png" alt="Code Editor" width="250"/> |
+| <img src="images/s5.png" alt="Reading Interface" width="250"/> | <img src="images/s6.png" alt="AI Assistant" width="250"/> | <img src="images/s2.png" alt="Code Editor" width="250"/> |
 
 *(See `images/s6.png` and others in the `images` folder for more!)*
 
@@ -75,10 +75,9 @@ You'll need the following installed on your machine:
 ## ⚠️ Disclaimer
 
 - **Beta Software:** This is an early beta version. Some features, particularly the AI agent, are currently experimental and might not work perfectly.
-- **Privacy First:** We respect your data! By default, user keys, chat history, and uploaded documents are ignored from version control to ensure your data never leaks.
 
 ---
 
 <div align="center">
-  <i>Crafted with 🖤 for readers and coders alike.</i>
+  <i> XXX </i>
 </div>
