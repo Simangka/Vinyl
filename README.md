@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Vinyl 🎧📖</h1>
   <p><strong>A EPUB/PDF Reader and Code Editor With ofc AI</strong></p>
-  <p><i>Beta Version</i></p>
+  <p><i>Beta Version(Expect Lots of Bugs)</i></p>
 </div>
 
 ---
